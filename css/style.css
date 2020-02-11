@@ -1,0 +1,39 @@
+.logo { 
+    width: 200px;
+}
+
+.line {  
+    border: 2px solid #7d97ad;
+}
+    
+ .h1-right {
+    text-align: right;
+    color: #2d3c49;
+    font-family: "verdana", sans-serif;
+}
+.main-img { 
+    width: 1500px;
+    height: 400px;
+    object-fit: cover;
+} 
+.title{
+    color: #7d97ad;
+    font-family: sans-serif;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.small-img{ 
+    width: 250px; 
+    height: 250px;
+    object-fit: cover;
+}
+.center {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-transform: uppercase;
+}
